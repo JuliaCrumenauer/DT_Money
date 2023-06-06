@@ -7,8 +7,8 @@ Tecnologias utilizadas até o momento:
 Demonstração de como está:
 
 Home:
-![DT Money](https://github.com/JuliaCrumenauer/DT_Money/assets/67925313/cca55b92-d717-495e-b30c-326df8a07da8)
+![DT Money](https://github.com/JuliaCrumenauer/DT_Money/assets/67925313/fd27ccab-794d-4097-92c6-f2126a5e2528)
 
 Ao clicar no botão Nova transação:
-![Nova transacao](https://github.com/JuliaCrumenauer/DT_Money/assets/67925313/e81c45c6-da90-4310-bab8-6994a226d7dd)
+![Nova transacao](https://github.com/JuliaCrumenauer/DT_Money/assets/67925313/4795dce0-fe53-4d0b-9891-ff96394750b4)
 
