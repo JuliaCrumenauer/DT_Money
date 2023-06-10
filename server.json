@@ -1,20 +1,44 @@
 {
-    "transactions": [
-        {
-            "id": 1,
-            "description": "Desenvolvimento de site",
-            "type": "income",
-            "category": "Venda",
-            "price": 14000,
-            "createdAt": "2022-07-29T19:36:44.505Z"
-        },
-        {
-            "id": 2,
-            "description": "Hamburguer",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 50,
-            "createdAt": "2022-07-29T19:30:44.505Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "description": "Olugar",
+      "category": "Comunidade",
+      "price": 49,
+      "type": "outcome",
+      "createdAt": "2023-06-10T22:54:36.620Z",
+      "id": 3
+    },
+    {
+      "description": "Atendimento",
+      "category": "Trabalho",
+      "price": 80,
+      "type": "income",
+      "createdAt": "2023-06-10T23:01:37.996Z",
+      "id": 4
+    },
+    {
+      "description": "Café da manhã",
+      "category": "Alimentação",
+      "price": 27,
+      "type": "outcome",
+      "createdAt": "2023-06-10T23:22:51.321Z",
+      "id": 5
+    }
+  ]
 }
