@@ -4,6 +4,9 @@ Tecnologias utilizadas até o momento:
 - Radix UI - Para acessibilidade.
 - Json server - Para criação de API.
 
+Funcionalidades prontas:
+- Busca.
+
 Demonstração de como está:
 
 Home:
