@@ -4,6 +4,7 @@ Tecnologias utilizadas até o momento:
 - Radix UI - Para acessibilidade;
 - Json server - Para criação de API;
 - Biblioteca Axios - Para fazer as requisições http.
+- EsLint - Para organização do código.
 
 Funcionalidades prontas:
 - Busca;
